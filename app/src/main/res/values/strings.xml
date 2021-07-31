@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Running Tracker</string>
+    <string name="start_running">Start Running</string>
+    <string name="running_details">Running Details</string>
+    <string name="finish_run">Finish Run</string>
+    <string name="time">Time</string>
+    <string name="distance">Distance (km)</string>
+    <string name="speed">Speed (km/h)</string>
+    <string name="running">Running</string>
+    <string name="name">Name</string>
+    <string name="temperature">Temperature</string>
+    <string name="rating">Rating</string>
+    <string name="back">Back</string>
+    <string name="number">#</string>
+    <string name="delete">Delete</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="sort_speed">Sort By Speed</string>
+    <string name="exercise">Exercise</string>
+    <string name="distance_today">Total distance run today (km)</string>
+</resources>
